@@ -27,3 +27,8 @@ This will decrypt files in the c:\temp directory, or to recursively decrypt a di
 ## Pre-built binary
 
 We suggest building the source yourself, but if you prefer a pre-built binary, you can download it [here](build/BlackByteDecryptor.zip). We have also provided a sample encrypted file called [spider.png.blackbyte](sample/spider.png.blackbyte).
+
+## Write up and analysis
+
+[BlackByte Ransomware – Pt. 1 In-depth Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/)
+[BlackByte Ransomware – Pt 2. Code Obfuscation Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/)
