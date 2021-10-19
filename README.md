@@ -31,4 +31,5 @@ We suggest building the source yourself, but if you prefer a pre-built binary, y
 ## Write up and analysis
 
 [BlackByte Ransomware – Pt. 1 In-depth Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/)
+
 [BlackByte Ransomware – Pt 2. Code Obfuscation Analysis](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/)
